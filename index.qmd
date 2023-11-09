@@ -1,7 +1,7 @@
 ---
-title: "YOUR NAME"
+title: "Reo Sakida"
 about:
-  template: trestles  # jolla  trestles  solana  marquee  broadside
+  template: jolla  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
   image-shape: round # rectangle  round  rounded
@@ -23,7 +23,6 @@ about:
       text: Email
       href: mailto:YOUR_EMAIL@geneseo.edu
 
-include-after-body: copyright.html
 ---
 
 
